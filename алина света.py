@@ -16,8 +16,8 @@ while True:
             print ("Корней нет")
             break
         elif D > 0:
-            x1 = (-b + math.sqrt(D)/2*a)
-            x2 = (-b - math.sqrt(D)/2*a)
+            x1 = (-b + math.sqrt(D)/(2*a)
+            x2 = (-b - math.sqrt(D)/(2*a)
             print(x1,x2)
             break
                  
